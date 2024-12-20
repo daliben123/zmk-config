@@ -22,4 +22,8 @@ include:
   - board: nice_nano_v2
     shield: corne_left nice_oled
   - board: nice_nano_v2
-    shield: corne_right nice_oled
+    shield: corne_right nice_oled nice_stick
+  - board: nice_nano_v2
+    shield: joycorne_left nice_oled
+  - board: nice_nano_v2
+    shield: joycorne_right nice_oled
