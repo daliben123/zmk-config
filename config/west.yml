@@ -16,8 +16,8 @@ manifest:
     - name: zmk-nice-oled
       remote: mctechnology17
       revision: main
-    - name: zmk-analog-input-driver
-      remote: badjeff
-      revision: main
+    # - name: zmk-analog-input-driver
+      # remote: badjeff
+      # revision: main
   self:
     path: config
